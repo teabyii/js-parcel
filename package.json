@@ -27,7 +27,7 @@
     "mocha": "^2.5.3"
   },
   "dependencies": {
-    "require-call": "^1.0.1",
+    "require-call": "^1.0.2",
     "resolve": "^1.1.7",
     "source-map": "^0.5.6"
   }

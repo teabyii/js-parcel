@@ -2,8 +2,6 @@
 
 One simple JavaScript require() module bundler, just take care JavaScript, no others.
 
-
-
 ## Installation
 
 ```shell
