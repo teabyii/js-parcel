@@ -1,0 +1,13 @@
+{
+  "name": "js-parcel-example",
+  "version": "0.0.0",
+  "main": "entry.js",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node transform.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "hello-world-classic": "^0.0.1"
+  }
+}
