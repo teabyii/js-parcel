@@ -4,7 +4,7 @@
   "description": "Another simple javascript module bundle maker.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha test/**/*.js"
   },
   "repository": {
     "type": "git",
