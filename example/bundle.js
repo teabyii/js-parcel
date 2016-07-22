@@ -21,8 +21,8 @@
 
   return __parcel_require__(0)
 })({
-  /*! Modules */
-  0: function(module, exports, __parcel_require__) {
+/*! Modules */
+0: function(module, exports, __parcel_require__) {
 /*!
  * module 0
  * path ./entry.js
